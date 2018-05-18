@@ -1,0 +1,604 @@
+<?xml version="1.0" ?>
+<rss>
+	<channel>
+		<title>Bits und so</title>
+		<link>http://podlist.de/podcast/auswahl/bits-und-so/</link>
+		<item>
+			<title>Bits und so #575 (Die Wolke)</title>
+			<guid isPermaLink="true">http://www.bitsundso.de/podpress_trac/feed/760/0/bits-2018-05-12.mp3</guid>
+			<enclosure length="1024" type="audio/mpeg" url="http://www.bitsundso.de/podpress_trac/feed/760/0/bits-2018-05-12.mp3"/>
+			<description>
+<![CDATA[Die Wolke / Compute / Regionen / Storage / Datenbanken / Serverless / Lift-and-shift / Video-Encoding / Mischbetrieb / Lock-In / Einstieg / Jimdo / Miradore]]>			</description>
+			<content>
+<![CDATA[
+<h3 id="diewolke">Die Wolke</h3>
+<ul>
+<li>Zu Gast: <a href="https://twitter.com/osterjour">Markus Ostertag</a> von <a href="http://www.teaminternet.com">Team Internet</a></li>
+<li>Bare Metal, Virtuell, Wolke</li>
+<li><a href="https://aws.amazon.com">AWS</a>, <a href="https://cloud.google.com">Google Cloud</a>, <a href="https://azure.microsoft.com/">Azure</a></li>
+<li>Compute: CPU, RAM, Storage</li>
+<li>Preise: On Demand, Spot-Markt, Reserved</li>
+<li><a href="https://medium.com/netflix-techblog/creating-your-own-ec2-spot-market-6dd001875f5">Netflix-interner Spot-Markt</a></li>
+<li><a href="https://m.do.co/c/04c173d97304">Digitalocean</a>, <a href="https://www.linode.com/?r=e9a9c255ef99dd983ab73de1698e2cc3fe19c251">Linode</a>, <a href="https://aws.amazon.com/lightsail/">Lightsail</a></li>
+<li><a href="https://aws.amazon.com/vpc/">VPC-Netzwerk</a></li>
+<li><a href="https://aws.amazon.com/s3/">S3</a>: Data Lake, Lifecycle, Reduced Redundancy, Glacier</li>
+<li><a href="https://wiki.hetzner.de/index.php/KVM-Console">Hetzner LARA</a></li>
+<li><a href="https://aws.amazon.com/products/databases/">Datenbanken</a>: MySQL, Aurora, etc.</li>
+<li>Bayrische Container: <a href="https://aws.amazon.com/ecs/">ECS</a></li>
+<li>Serverless: <a href="https://aws.amazon.com/lambda/">Lambda</a>, <a href="https://cloud.google.com/functions/">Cloud Functions</a></li>
+<li><a href="https://aws.amazon.com/blogs/enterprise-strategy/cloud-native-or-lift-and-shift/">Lift-and-shift</a></li>
+<li>Video-Encoding: <a href="https://aws.amazon.com/digital-media/aws-managed-video-services/">Elemental</a>, <a href="https://aws.amazon.com/elastictranscoder/">Transcoder</a></li>
+<li><a href="https://aws.amazon.com/efs/">EFS</a>: NAS in der Wolke</li>
+<li>ETL-Prozesse: <a href="https://aws.amazon.com/glue/">AWS Glue</a></li>
+<li>Mischbetrieb</li>
+<li>Lock-In</li>
+<li>AWS User-Groups, z.B. <a href="https://www.meetup.com/AWS-Munich/">M&#252;nchen</a></li>
+<li><a href="https://www.amazon.jobs/principles">Amazon Leadership Principles</a></li>
+<li><a href="https://firebase.google.com/">Google Firebase</a></li>
+<li>IoT: <a href="https://aws.amazon.com/greengrass/">Greengrass</a>, <a href="https://docs.aws.amazon.com/greengrass/latest/developerguide/gg-gs.html">f&#252;r RPi</a></li>
+<li><a href="https://aws.amazon.com/kinesis/video-streams/">Kinesis Video</a></li>
+<li><a href="https://www.amazon.com/b?ie=UTF8&amp;node=16008589011">Amazon Go Store</a></li>
+<li><a href="http://www.teaminternet.com/jobs.html">Jobs bei TI</a></li>
+</ul>
+<h3 id="pre-postshow">Pre-/Postshow</h3>
+<ul>
+<li>Diese Woche rund 40 Minuten Bonus-Content mit <a href="http://bitsundso.plus">Bits und so Plus</a></li>
+<li><a href="https://www.amazon.de/Dymo-S0904950-LabelWriter-Tischetikettendrucker-Etikettensystem/dp/B002ZY67MY/ref=as_li_ss_tl?ie=UTF8&amp;qid=1525804293&amp;sr=8-1-fkmr1&amp;&amp;linkCode=ll1&amp;tag=bitundso03-21&amp;linkId=4a576d3297db4401c9ab71b6fc43e484">Dymo 4XL Labeldrucker</a></li>
+<li>Zeiterfassung</li>
+<li>Migration nicht so einfach</li>
+<li>Hochladen mit der Post: <a href="https://aws.amazon.com/snowball/">Snowball</a></li>
+<li><a href="https://datalab-munich.com/">VW Data Lab</a></li>
+<li><a href="https://pages.awscloud.com/sap-saphanapromo.html">SAP mit 1000$-Gutschein</a></li>
+<li>USt-ID-APIs</li>
+<li>Kunden kauften auch: <a href="https://i.imgur.com/uNHCEV1.png">Hocker und Strick</a></li>
+</ul>
+<h3 id="sponsor">Sponsor</h3>
+<ul>
+<li><a href="https://de.jimdo.com/bitsundso">Jimdo</a>
+<ul>
+<li>In 3 Minuten zur eigenen Homepage</li>
+<li>Chatbot erstellt Website</li>
+<li>20% Rabatt mit Code BITSUNDSO</li>
+</ul>
+</li>
+<li><a href="https://miradore.com">Miradore MDM</a>
+<ul>
+<li>Android und iOS</li>
+<li>DSGVO-Compliance sichern</li>
+<li>2$ pro Ger&#228;t pro Monat</li>
+</ul>
+</li>
+</ul>
+]]>			</content>
+			<pupDate>12/05/2018</pupDate>
+		</item>
+		<item>
+			<title>Bits und so #574 (Von Zahnarztfrauen empfohlen)</title>
+			<guid isPermaLink="true">http://www.bitsundso.de/podpress_trac/feed/759/1/bits-2018-05-06-ch2PGQGS.m4a</guid>
+			<enclosure length="1024" type="audio/mpeg" url="http://www.bitsundso.de/podpress_trac/feed/759/1/bits-2018-05-06-ch2PGQGS.m4a"/>
+			<description>
+<![CDATA[Marzipan / HomePod Mesh / IT-Konferenz / AppleSupport / Pocketcasts / 500600 / Quartalszahlen / Declutter / Pretix Ticket-Shopsystem / FocusGTD / Oral-B Genius / Miradore MDM / Udemy / Jimdo]]>			</description>
+			<content>
+<![CDATA[
+<h3 id="news">News</h3>
+<ul>
+<li><a href="https://www.bloomberg.com/news/articles/2017-12-20/apple-is-said-to-have-plan-to-combine-iphone-ipad-and-mac-apps">Projekt Marzipan</a>, <a href="https://daringfireball.net/2018/04/scuttlebutt_regarding_ui_project">Gruber dazu</a></li>
+<li>HomePod Mesh Wifi</li>
+<li>Gartner CIO-Konferenz: &#214;l-IT, DHL-Innovation, Schokolade</li>
+<li>Apple Support &#8220;Other&#8221;</li>
+<li>NPR shoppt <a href="https://www.shiftyjelly.com/pocketcasts/">Pocket Casts</a></li>
+<li><a href="http://bitsundso.de/500600">500600</a> praktisch ausverkauft</li>
+<li>Quartalszahlen</li>
+</ul>
+<h3 id="picks">Picks</h3>
+<ul>
+<li>leo: Declutter (kein Link, da leider Abofalle im App Store), Klassiker: <a href="https://www.noodlesoft.com">Hazel</a>, <a href="https://unclutterapp.com">Unclutter Pasteboard-Ding</a></li>
+<li>timo: <a href="https://pretix.eu/about/de/">Pretix</a> Ticketshop-System</li>
+<li>basti: <a href="http://focusgtdapp.com">FocusGTD</a>, <a href="https://www.omnigroup.com/omnifocus">Omnifocus</a>-kompatibel</li>
+<li>alex: <a href="https://www.amazon.de/Oral-B-Genius-9000N-Bluetooth-Verbindung-Aufsteckb%C3%BCrsten-Premium-Lade-Reise-Etui/dp/B01EON1IEA/ref=as_li_ss_tl?s=drugstore&amp;ie=UTF8&amp;qid=1525711093&amp;sr=1-1&amp;keywords=oral+b+genius+9000&amp;linkCode=ll1&amp;tag=bitundso03-21&amp;linkId=f5be0960424c44c7b807892f290ff243">Oral-B Genius 9000</a> (Die Videos!)</li>
+</ul>
+<h3 id="pre-postshow">Pre-/Postshow</h3>
+<ul>
+<li><a href="https://www.amazon.de/Red-Bull-Summer-Kokos-Blaubeere-Geschmack/dp/B07BGH6ZTZ/ref=as_li_ss_tl?ie=UTF8&amp;linkCode=ll1&amp;tag=bitundso03-21&amp;linkId=fd45b36a695de2877fc230274ef016a9">Red Bull Kokos-Blaubeere</a>, <a href="http://www.shatlers.de">Shatler&#8217;s Cocktails</a></li>
+<li><a href="https://www.amazon.de/Axe-Geschenkset-Bluetooth-Speaker-wasserfest/dp/B075QHSXXR/ref=as_li_ss_tl?ie=UTF8&amp;qid=1525110993&amp;sr=8-3&amp;keywords=axe+geschenkset&amp;linkCode=ll1&amp;tag=bitundso03-21&amp;linkId=651dca639438e5fa3db2b8c4552896df">Axe B&#252;ffel-Effekt</a></li>
+<li><a href="https://inkbox.com">Inkbox Temp Tattoos</a>, <a href="https://www.instagram.com/p/BiZHEMgBweH/">1UP-Pilz</a></li>
+<li><a href="https://www.amazon.de/s/ref=as_li_ss_tl?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;url=search-alias=drugstore&amp;field-keywords=zahnband&amp;linkCode=ll2&amp;tag=bitundso03-21&amp;linkId=c0afc877e1eb3ae5a0bede8cdb4178e0">Zahnband</a></li>
+<li><a href="https://www.amazon.de/s/ref=as_li_ss_tl?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;url=search-alias=aps&amp;field-keywords=superhelden+filme+blu+ray&amp;sprefix=superhelden+filme,aps,188&amp;crid=2ZYUUOX186D8E&amp;linkCode=ll2&amp;tag=bitundso03-21&amp;linkId=5a7ad5be84abac08d9dfb3e9cb87d79d">Superhelden-Filme</a></li>
+</ul>
+<h3 id="sponsoren">Sponsoren</h3>
+<ul>
+<li><a href="https://miradore.com">Miradore MDM</a>
+<ul>
+<li>Android und iOS</li>
+<li>DSGVO-Compliance sichern</li>
+<li>2$ pro Ger&#228;t pro Monat</li>
+</ul>
+</li>
+<li><a href="http://www.ude.my/bits">Udemy</a>
+<ul>
+<li>Video-Lernplattform f&#252;r viele Themenbereiche</li>
+<li>&#220;ber 65000 Kurse, Geld-zur&#252;ck-Garantie</li>
+<li>z.B: Final Cut Pro X</li>
+</ul>
+</li>
+<li><a href="https://de.jimdo.com/bitsundso">Jimdo</a>
+<ul>
+<li>In 3 Minuten zur eigenen Homepage</li>
+<li>Chatbot erstellt Website</li>
+<li>20% Rabatt mit Code BITSUNDSO</li>
+</ul>
+</li>
+</ul>
+]]>			</content>
+			<pupDate>07/05/2018</pupDate>
+		</item>
+		<item>
+			<title>Bits und so #573 (Fräulein!)</title>
+			<guid isPermaLink="true">http://www.bitsundso.de/podpress_trac/feed/758/0/bits-2018-04-30.mp3</guid>
+			<enclosure length="1024" type="audio/mpeg" url="http://www.bitsundso.de/podpress_trac/feed/758/0/bits-2018-04-30.mp3"/>
+			<description>
+<![CDATA[Navigations-Apps / Rich Communication Suite / iPhone X-Halbzeit / bus500600 Ticket-Vorverkauf / AirPlay 2 / Tim Cook macOS / SimsMe / Magenta 2x-Volumen / Automute / Anker Soundcore Nano / Duschlautsprecher / 1Blocker X  / Jamf / Jimdo]]>			</description>
+			<content>
+<![CDATA[
+<h3 id="news">News</h3>
+<ul>
+<li>Navi-Apps, <a href="https://www.heise.de/newsticker/meldung/Navigon-Apps-verschwinden-vom-Markt-4026533.html">Navigon wird eingestellt</a></li>
+<li><a href="https://www.theverge.com/2018/4/19/17252486/google-android-messages-chat-rcs-anil-sabharwal-imessage-texting">Google RCS</a>, <a href="https://messageplus.telekom-dienste.de">Telekom Message+</a>, <a href="https://www.sims.me">SimsMe</a></li>
+<li>iPhone X-Halbzeit</li>
+<li>AirPlay 2, <a href="https://blog.sonos.com/en/airplay2-coming/">Sonos-Support</a></li>
+<li><a href="https://www.smh.com.au/technology/users-don-t-want-ios-to-merge-with-macos-apple-chief-says-20180416-p4z9t9.html">Tim Cook zu macOS/iOS</a></li>
+<li><a href="https://www.telekom.com/de/medien/medieninformationen/detail/telekom-verdoppelt-datenvolumen-fuer-magentaeins-kunden-521226">MagentaEins verdoppelt Volumen</a></li>
+</ul>
+<h3 id="bitsundso500600">Bits und so #500600</h3>
+<ul>
+<li>Ticket-Vorverkauf ab Dienstag 1.5., 12 Uhr</li>
+<li><a href="http://bitsundso.de/500600">bitsundso.de/500600</a></li>
+</ul>
+<h3 id="picks">Picks</h3>
+<ul>
+<li>leo: <a href="https://itunes.apple.com/us/app/automute-preventing-awkward-situations/id1118136179?mt=12&amp;at=10ltcD">Automute f&#252;r Mac</a></li>
+<li>basti: <a href="https://www.amazon.de/Anker-SoundCore-Bluetooth-Lautsprecher-Wireless-Silbrig/dp/B01E6ZLLPW/ref=as_li_ss_tl?ie=UTF8&amp;linkCode=ll1&amp;tag=bitundso03-21&amp;linkId=5b0d26db69ccf5240b080f41b28944fd">Anker Soundcore Nano</a></li>
+<li>timo: <a href="https://www.amazon.de/Axe-Geschenkset-Bluetooth-Speaker-wasserfest/dp/B075QHSXXR/ref=as_li_ss_tl?ie=UTF8&amp;qid=1525110993&amp;sr=8-3&amp;keywords=axe+geschenkset&amp;linkCode=ll1&amp;tag=bitundso03-21&amp;linkId=651dca639438e5fa3db2b8c4552896df">Axe Duschlautsprecher</a> (ggf noch g&#252;nstiget bei Prime Now)</li>
+<li>alex: <a href="https://itunes.apple.com/us/app/1blocker-x/id1365531024?mt=8&amp;at=10ltcD">1Blocker X</a></li>
+</ul>
+<h3 id="pre-postshow">Pre-/Postshow</h3>
+<ul>
+<li>Diese Woche &#252;ber eine Stunde Bonus-Content mit <a href="http://bitsundso.plus">Bits und so Plus</a></li>
+<li>Vappu</li>
+<li>eBay Kleinanzeigen</li>
+<li>Ein Wunsch f&#252;r Tim</li>
+<li>Vodafone-Reboot</li>
+<li><a href="https://de.wikipedia.org/wiki/Fernsprechtischapparat">FeTAp 611&#8211;2</a></li>
+<li><a href="https://twitter.com/timohetzel/status/990511799761080320">SMS-Lades&#228;ule</a></li>
+<li><a href="https://www.mennekes.de/produkt-details/wandsteckdose-7002a/#wandsteckdose7002a0.7067068491596729">Mennekes 7002A</a></li>
+<li>Salsiccia in der Hosentasche</li>
+</ul>
+]]>			</content>
+			<pupDate>30/04/2018</pupDate>
+		</item>
+		<item>
+			<title>Bits und so #572 (Füge Geld zu)</title>
+			<guid isPermaLink="true">http://www.bitsundso.de/podpress_trac/feed/755/0/bits-2018-04-24.mp3</guid>
+			<enclosure length="1024" type="audio/mpeg" url="http://www.bitsundso.de/podpress_trac/feed/755/0/bits-2018-04-24.mp3"/>
+			<description>
+<![CDATA[Right to Repair / App Store Sparabo / Flickr / Bus 500600 / GreyKey / Congstar 10GB / Magic Utilities / Maps 3D Pro / DJI Mavic Air / Jamf / Udemy / Jimdo]]>			</description>
+			<content>
+<![CDATA[
+<h3 id="news">News</h3>
+<ul>
+<li>Right to Repair</li>
+<li>App Store-Abofallen</li>
+<li>Flickr an Smugmug verkauft</li>
+<li>Bus #500600 Tickets Ende April</li>
+<li>GreyKey iPhone-Hackbox</li>
+</ul>
+<h3 id="picks">Picks</h3>
+<ul>
+<li>timo: Congstar einmalig 10GB f&#252;r Neukunden</li>
+<li>alex: Magic Utilities f&#252;r Windows</li>
+<li>leo: Maps 3D Pro, inRoute</li>
+<li>basti: DJI Mavic Air</li>
+</ul>
+<h3 id="sponsoren">Sponsoren</h3>
+<ul>
+<li><a href="http://jamf.com/bits">Jamf Now</a>
+<ul>
+<li>MDM f&#252;r iPhone, iPad, Mac</li>
+<li>Verwalten, Managen, Absichern</li>
+<li>3 Ger&#228;te dauerhaft gratis, jedes weitere 2$/Monat</li>
+</ul>
+</li>
+<li><a href="http://www.ude.my/bits">Udemy</a>
+<ul>
+<li>Video-Lernplattform f&#252;r viele Themenbereiche</li>
+<li>&#220;ber 65000 Kurse, Geld-zur&#252;ck-Garantie</li>
+<li>z.B: Ethical Hacking mit Python</li>
+</ul>
+</li>
+<li><a href="https://de.jimdo.com/bitsundso">Jimdo Dolphin</a>
+<ul>
+<li>In 3 Minuten zur eigenen Homepage</li>
+<li>Chatbot erstellt Website</li>
+<li>20% Rabatt mit Code BITSUNDSO</li>
+</ul>
+</li>
+</ul>
+]]>			</content>
+			<pupDate>24/04/2018</pupDate>
+		</item>
+		<item>
+			<title>Bits und so #571 (Blasenfrei laden)</title>
+			<guid isPermaLink="true">http://www.bitsundso.de/podpress_trac/feed/754/0/bits-2018-04-15.mp3</guid>
+			<enclosure length="1024" type="audio/mpeg" url="http://www.bitsundso.de/podpress_trac/feed/754/0/bits-2018-04-15.mp3"/>
+			<description>
+<![CDATA[Zu Gast: Mathias Dalheimer / Stromnetz / AC-Ladung / Abrechnung / Ladeger&#228;t / DC-Ladung / Wallboxen / Fi-Schutzschalter / Reichweitenpraxis / Ladepraxis / Rettungskarte / Wallbox-Optionen / Fahrassistenz / Stecker und Dosen / Verbrauch und Kosten / Jimd]]>			</description>
+			<content>
+<![CDATA[
+<h3 id="autostrom">Autostrom</h3>
+<ul>
+<li>Zu Gast: <a href="https://twitter.com/gonium">Mathias Dalheimer</a>, <a href="https://gonium.net">gonium.net</a></li>
+<li>34C3: <a href="https://media.ccc.de/v/34c3-9092-ladeinfrastruktur_fur_elektroautos_ausbau_statt_sicherheit">Lades&#228;ulen-IT</a></li>
+<li><a href="https://media.ccc.de/v/MRMCD2014_-_5985_-_de_-_tiefbaustelle_s21_-_201409051830_-_https_netzsin_us_-_dem_stromnetz_auf_die_finger_geguckt_-_gonium">Netzfrequenz</a></li>
+<li>32C3: <a href="https://media.ccc.de/v/32c3-7323-wie_man_einen_blackout_verursacht">Netsplit mit Kreuzfahrtschiff</a></li>
+<li>Gleichzeitigkeitsfaktor</li>
+<li><a href="https://de.wikipedia.org/wiki/Dreiphasenwechselstrom">Drehstrom</a></li>
+<li>Spannung, Strom, Leistung</li>
+<li>Typ 2: <a href="https://evsim.gonium.net">Drehstromdose mit Sicherung und Steuerung</a> (Waffeleisenadapter)</li>
+<li>Autostecker: <a href="https://de.wikipedia.org/wiki/IEC_62196#Typ_1">Typ 1</a>, <a href="https://de.wikipedia.org/wiki/IEC_62196_Typ_2">Typ 2</a>, <a href="https://de.wikipedia.org/wiki/Combined_Charging_System">CCS</a>, <a href="https://de.wikipedia.org/wiki/CHAdeMO">CHAdeMO</a></li>
+<li><a href="https://de.wikipedia.org/wiki/Fehlerstrom-Schutzschalter">Fehlerstromschutzschalter</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Open_Charge_Point_Protocol">OCPP Abrechnungsprotokoll</a></li>
+<li><a href="https://www.gesetze-im-internet.de/lsv/BJNR045700016.html">Lades&#228;ulenverordnung</a></li>
+<li>Ladeger&#228;t im Auto, z.B. <a href="https://www.youtube.com/watch?v=LqJ7HhS65po">Tesla Charger</a></li>
+<li>USA: <a href="https://en.wikipedia.org/wiki/NEMA_connector">NEMA-Stecker</a></li>
+<li><a href="http://new.abb.com/ev-charging/de/produkte/ladestationen-pkws/einzelstandard-schnellladestationen/terra-23-c">ABB-Lades&#228;ulen</a></li>
+<li><a href="https://de.wikipedia.org/wiki/Balancer">Balancing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tesla_Supercharger">Tesla Supercharger</a></li>
+<li>Wallboxen: <a href="https://www.tesla.com/de_DE/support/home-charging-installation?redirect=no">Tesla</a>, <a href="https://webasto-charging.com/default/home">Webasto</a>, <a href="https://go-e.co">Go-E</a>, <a href="https://www.keba.com/en/emobility/emobility">Keba</a></li>
+<li>ICCB &#8220;Ladeziegel&#8221;: 16A Mennekes/Volvo, 10A VW TE, <a href="https://www.tesla.com/de_DE/support/home-charging-installation?redirect=no">Tesla Mobile Connector</a>, diverse 12A/13A z.B. bei BMW</li>
+<li><a href="https://de.wikipedia.org/wiki/IEC_60309">Camping- und andere CEE-Dosen</a></li>
+<li>Gratis-S&#228;ulen: Telekom Olympiaturm, BMW-Werk, VW-H&#228;ndler, Ikea, Aldi, Einkaufszentren</li>
+<li><a href="https://www.phoenixcontact.com/online/portal/de?1dmy&amp;urile=wcm:path:/dede/web/main/products/subcategory_pages/Charging_controllers_P-29-04/">Phoenix Contact Ladesteuerungen</a></li>
+<li>Netto-/Brutto Akkukapazit&#228;t</li>
+<li>Guess-O-Meter/Sch&#228;tzeisen Reichweitensch&#228;tzung</li>
+<li><a href="https://www.volkswagen.de/content/dam/vw-ngw/vw_pkw/importers/de/geschaeftskunden/sonderfahrzeuge/rettungsfahrzeuge/downloads_leitfaden_rettungsfahrzeuge/volkswagen_rettungsdatenblaetter_12-2017.pdf/_jcr_content/renditions/original.media_file.download_attachment.file/volkswagen_rettungsdatenblaetter_12-2017.pdf">Rettungskarte</a>, Feuerwehr-Video</li>
+<li>Tesla: <a href="https://www.youtube.com/watch?v=QCIo8e12sBM">Frunk-Entriegelung</a></li>
+<li>Fahrassistenz-Systeme</li>
+<li>Roaming-Ladekarten: <a href="https://www.plugsurfing.com/en/">Plugsurfing</a>, <a href="https://newmotion.com/en">New Motion</a></li>
+<li>Swisscharge, <a href="https://chargenow.com/web/chargenow-de/">BMW ChargeNow</a>, <a href="http://www.chargeandfuel.de">VW Charge&amp;Fuel</a></li>
+<li>Lades&#228;ulen-App: <a href="https://itunes.apple.com/de/app/chargev/id1151812209?mt=8&amp;at=10ltcD">ChargeEV</a></li>
+<li><a href="https://www.youtube.com/watch?v=N3G8JGsEjPA&amp;list=PLIn3FrDiB1lzjfZvamYdxYo9uczD2JnTT">Chevy Bolt Batterie Teardown</a></li>
+</ul>
+<h3 id="pre-postshow">Pre-/Postshow</h3>
+<ul>
+<li>Diese Woche knapp 40 Minuten Bonus-Content mit <a href="http://bitsundso.plus">Bits und so Plus</a></li>
+<li>Fr&#252;hst&#252;ck</li>
+<li>Tarife: <a href="https://www.lew.de/energiezukunft/e-mobility/elektroautos/strom-fuer-elektroautos">LEW</a>, <a href="https://www.swisscharge.ch">Swisscharge</a>, <a href="http://www.chargeandfuel.de">Charge&amp;Fuel</a>, <a href="https://www.swm.de/privatkunden/m-mobilitaet/elektromobilitaet.html">SWM</a></li>
+<li>Tesla: VIN f&#252;r Supercharger-Abrechnung</li>
+<li>Schnelllades&#228;ulen an Superm&#228;rkten, Rasth&#246;fen</li>
+<li><a href="http://teslamag.de/news/neuer-supercharger-deutschland-nur-teslafahrer-18299">Update nach der Aufzeichnung: Tesla definiert sich vom &#246;ffentlichen Grund herunter</a></li>
+<li>Verbrauch, Optimierungspotential</li>
+<li>Power-User-Modus fehlt</li>
+<li><a href="https://www.youtube.com/watch?v=pa5_tudyAF8">BMW i3 Fabrikvideo</a></li>
+</ul>
+<h3 id="sponsor">Sponsor</h3>
+<ul>
+<li><a href="https://de.jimdo.com/bitsundso">Jimdo Dolphin</a>
+<ul>
+<li>In 3 Minuten zur eigenen Homepage</li>
+<li>Chatbot erstellt Website</li>
+<li>20% Rabatt mit Code BITSUNDSO</li>
+</ul>
+</li>
+</ul>
+]]>			</content>
+			<pupDate>15/04/2018</pupDate>
+		</item>
+		<item>
+			<title>Bits und so #570 (Spielplatz Tunnelrutsche)</title>
+			<guid isPermaLink="true">http://www.bitsundso.de/podpress_trac/feed/753/0/bits-2018-04-07.mp3</guid>
+			<enclosure length="1024" type="audio/mpeg" url="http://www.bitsundso.de/podpress_trac/feed/753/0/bits-2018-04-07.mp3"/>
+			<description>
+<![CDATA[ARM-Macs / Google AI-Manager / Bayern-WLAN / SLAM-Lades&#228;ulen / Facebook / Radio Silence / Tesla-Probefahrt / Teufel 360 Radio / Wo streamt was? / Jimdo Dolphin]]>			</description>
+			<content>
+<![CDATA[
+<h3 id="news">News</h3>
+<ul>
+<li><a href="https://www.bloomberg.com/news/articles/2018-04-02/apple-is-said-to-plan-move-from-intel-to-own-mac-chips-from-2020">Bloomberg: Eigene Mac-CPUs</a></li>
+<li><a href="https://techcrunch.com/2018/04/05/apples-2019-imac-pro-will-be-shaped-by-workflows/">Mac Pro 2019</a></li>
+<li><a href="https://itunes.apple.com/us/app/workflow/id915249334?mt=8&amp;at=10ltcD">Workflow App</a></li>
+<li>Dell 2023 pleite</li>
+<li><a href="https://www.powercolor.com/product?id=1497236280">eGPU-Geh&#228;use</a>, <a href="https://twitter.com/timohetzel/status/982980055545667584">sehr h&#252;bsch</a></li>
+<li><a href="https://www.nytimes.com/2018/04/03/business/apple-hires-googles-ai-chief.html">Google AI-Manager bei Apple</a></li>
+<li>WWDC-Wunschliste: Apps besser verzahnen</li>
+<li><a href="https://twitter.com/markus_soeder/status/913705501745143808?lang=de">Bayern-WLAN</a> <a href="https://twitter.com/ShahakShapira/status/981861145366749184">statt 5G</a></li>
+<li><a href="https://www.youtube.com/watch?v=zHU2RlSCdxU">10 Stunden Hypnotoad</a></li>
+<li><a href="https://www.heise.de/newsticker/meldung/Bundesverkehrsminister-kuendigt-Gipfel-zur-Schliessung-von-Funkloechern-noch-vor-Sommerpause-an-4009769.html">Funkloch-App</a></li>
+<li><a href="https://www.heise.de/newsticker/meldung/Viag-Interkom-schraenkt-D1-Roaming-ein-17234.html">Viag Interkom/Telekom-Roaming auf dem Land</a></li>
+<li><a href="http://www.oebl.de/birdie/birdie.html">Telepoint Birdie</a></li>
+<li><a href="http://www.slam-projekt.de">SLAM-Lades&#228;ulen</a>, <a href="https://www.maingau-energie.de/e-mobilit&#228;t/autostrom-tarif">Maingau Autostrom</a>, <a href="https://emobility.vattenfall.de/produkte/ladekarte/">Vattenfall (ausverkauft)</a></li>
+</ul>
+<h3 id="picks">Picks</h3>
+<ul>
+<li>alex: <a href="https://radiosilenceapp.com">Radio Silence</a></li>
+<li>timo: Tesla Probefahrt</li>
+<li>basti: <a href="https://www.teufel.de/stereo/radio-3sixty-p16568.html">Teufel 3Sixty Radio</a></li>
+<li>leo: Wo streamt was international? (DE: <a href="https://www.werstreamt.es">werstreamt.es</a>)</li>
+</ul>
+<h3 id="500600">#500600</h3>
+<ul>
+<li>Live Show in M&#252;nchen am 21. Oktober 2018 (tags&#252;ber)</li>
+<li>Ticketverkauf Ende April</li>
+</ul>
+<h3 id="pre-postshow">Pre-/Postshow</h3>
+<ul>
+<li>Cinema Display</li>
+<li><a href="https://www.amazon.de/s/ref=as_li_ss_tl?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;url=search-alias=aps&amp;field-keywords=Intel+Skull+Canyon+NUC&amp;linkCode=ll2&amp;tag=bitundso03-21&amp;linkId=3b50370e08dc55a82171cb21fcf92c6e">Intel Skull Canyon NUC</a></li>
+<li><a href="https://www.youtube.com/watch?v=MfbSkpBzBRc">iPhone Bob</a></li>
+<li><a href="http://www.adweek.com/creativity/this-look-inside-spike-jonzes-apple-ad-is-as-fascinating-as-the-film-itself/">HomePod Ad BTS</a></li>
+<li>Ready Player One</li>
+<li><a href="https://www.amazon.de/Welt-am-Draht-Digitally-Remastered/dp/B075SMF38M/ref=as_li_ss_tl?ie=UTF8&amp;qid=1523198937&amp;sr=8-1&amp;keywords=welt+am+draht&amp;linkCode=ll1&amp;tag=bitundso03-21&amp;linkId=d7cfefad7647483f4fb5f1ea26805556">Welt am Draht</a>, <a href="https://www.amazon.de/Man-Earth-David-Lee-Smith/dp/B0157JFA9E/ref=as_li_ss_tl?ie=UTF8&amp;qid=1523198971&amp;sr=8-1&amp;keywords=man+from+earth&amp;linkCode=ll1&amp;tag=bitundso03-21&amp;linkId=894fc953a880cea57995de446c33ba29">Man from Earth</a></li>
+<li><a href="https://www.netflix.com/title/80094728">Marcella</a>, <a href="https://www.netflix.com/title/80185171">Collateral</a>, <a href="https://www.netflix.com/title/70302484">Broadchurch</a> (nur S01!)</li>
+<li>Wilde Titel auf Prime</li>
+<li><a href="https://www.gewiss.com/ww/de/products/experience-catalogue/catalogs/series/product/building/ib-range-interlocked-socket-outlets-iec-309-standards/GW66004">Gewiss Steckdose</a></li>
+<li><a href="https://www.press.bmwgroup.com/deutschland/article/detail/T0261113DE/bmw-group-und-stadt-muenchen-starten-kooperationsprojekt-&#8222;light-charge&#8220;?language=de">Light&amp;Charge Lades&#228;ule</a></li>
+<li><a href="http://www.hansklok.org">Hans Klok</a></li>
+<li>Gartenm&#246;bel, Grilltechnologie: <a href="https://beefer.de/">Beefer</a>, <a href="https://shop.metro.de/grillen/gasgrills/modulare-outdoorkueche-edelstahl">Modulare Outdoork&#252;che</a></li>
+</ul>
+<h3 id="sponsor">Sponsor</h3>
+<ul>
+<li><a href="https://de.jimdo.com/bitsundso">Jimdo Dolphin</a>
+<ul>
+<li>In 3 Minuten zur eigenen Homepage</li>
+<li>Chatbot erstellt Website</li>
+<li>20% Rabatt mit Code BITSUNDSO</li>
+</ul>
+</li>
+</ul>
+]]>			</content>
+			<pupDate>08/04/2018</pupDate>
+		</item>
+		<item>
+			<title>Bits und so #569 (Feachers)</title>
+			<guid isPermaLink="true">http://www.bitsundso.de/podpress_trac/feed/752/0/bits-2018-03-31.mp3</guid>
+			<enclosure length="1024" type="audio/mpeg" url="http://www.bitsundso.de/podpress_trac/feed/752/0/bits-2018-03-31.mp3"/>
+			<description>
+<![CDATA[#500600 / Neues iPad / Edu-Event / Facebook / EU-Roaming / Foxconn shoppt Belkin / iOS 11.3 / Windy / MapOut / Sphero Toys / Zei Trackingw&#252;rfel / Jamf Now / Casper / PremiumSIM LTE / Jimdo]]>			</description>
+			<content>
+<![CDATA[
+<h3 id="500600">#500600</h3>
+<ul>
+<li>Live Show in M&#252;nchen am 21. Oktober 2017 (tags&#252;ber)</li>
+<li>Ticketverkauf Ende April</li>
+</ul>
+<h3 id="news">News</h3>
+<ul>
+<li><a href="https://www.apple.com/ipad-9.7/">Neues iPad mit Pencil-Support</a></li>
+<li><a href="http://mactracker.ca">MacTracker</a>, <a href="https://everymac.com">EveryMac</a></li>
+<li><a href="https://www.apple.com/apple-events/march-2018/">Edu-Event</a></li>
+<li>Schulcomputer in der 90ern: Overhead-LCD</li>
+<li>Werbespot: <a href="https://www.youtube.com/watch?v=gw7y3yHgO-Q">Schwerkraft</a></li>
+<li><a href="https://jonohayes.com/?p=48">iPad-Schule in Neuseeland</a></li>
+<li>NRW: <a href="https://twitter.com/henningtillmann/status/979266762129670144">Computerverbot</a></li>
+<li>Facebook: <a href="https://medium.com/@dennishorn/der-facebook-skandal-aber-sortiert-e3d58bc67d98">Dennis Horn mit einer guten &#220;bersicht dazu</a></li>
+<li><a href="https://www.theregister.co.uk/2010/05/14/facebook_trust_dumb/">Zuckerberg: &#8220;Dumb fucks&#8221;</a></li>
+<li><a href="https://blog.mozilla.org/firefox/facebook-container-extension/">Mozilla-Facebook-Kondom</a></li>
+<li>EU Roaming-Option im Mobilfunkvertrag &#252;berpr&#252;fen</li>
+<li>iOS 11.3, Batteriegesundheit, <a href="https://blog.emojipedia.org/ios-11-3-emoji-changelog/">neue Emojis</a></li>
+<li>AR: <a href="https://itunes.apple.com/us/app/porsche-ar-imagine/id1263069874?mt=8&amp;at=10ltcD">Porsche</a>, <a href="https://itunes.apple.com/us/app/ikea-place/id1279244498?mt=8&amp;at=10ltcD">Ikea</a></li>
+</ul>
+<h3 id="picks">Picks</h3>
+<ul>
+<li>timo: <a href="http://windy.com">Windy</a> Wind- und Wetterkarten</li>
+<li>leo: <a href="https://www.mapbox.com">MapBox</a>, <a href="https://mapoutapp.com">MapOut</a></li>
+<li>alex: <a href="https://www.amazon.de/Sphero/b/ref=as_li_ss_tl?ie=UTF8&amp;node=2127717031&amp;field-lbr_brands_browse-bin=Sphero&amp;linkCode=ll2&amp;tag=bitundso03-21&amp;linkId=02d1bbdc0f48e827b8ee5779562a0b4f">Sphero Toys</a></li>
+<li>basti: <a href="https://timeular.com">Zei Trackingw&#252;rfel</a></li>
+</ul>
+<h3 id="pre-postshow">Pre-/Postshow</h3>
+<ul>
+<li>Diese Woche &#252;ber eine Stunde Bonus-Content mit <a href="http://bitsundso.plus">Bits und so Plus</a></li>
+<li>Memento: <a href="http://knowyourmeme.com/memes/dont-believe-his-lies">Don&#8217;t believe his lies</a></li>
+<li>Pferdeentgleisung</li>
+<li>Gewinner, Gewinner, H&#252;hnchen-Dinner</li>
+<li>DHL: Sprinter undicht, <a href="https://twitter.com/BluFire95/status/979434040288784385">Wohnzimmerzustellung</a></li>
+<li>VW Ersatzmobilit&#228;t</li>
+<li>Gschichtn ausm Ladegarten</li>
+<li>Unsere Schulen, Lehrer und Abi, versch&#228;rfter Verweis</li>
+</ul>
+<h3 id="sponsoren">Sponsoren</h3>
+<ul>
+<li><a href="https://casper.com/bits">Casper</a>
+<ul>
+<li>Made in Germany</li>
+<li>100 Tage probeschlafen, kostenloser Versand</li>
+<li>55 Euro Rabatt auf Matratze mit neuem Code BITS</li>
+</ul>
+</li>
+<li><a href="http://jamf.com/bits">Jamf Now</a>
+<ul>
+<li>MDM f&#252;r iPhone, iPad, Mac</li>
+<li>Verwalten, Managen, Absichern</li>
+<li>3 Ger&#228;te dauerhaft gratis, jedes weitere 2$/Monat</li>
+</ul>
+</li>
+<li><a href="http://www.premiumsim.de/angebote/bitsundso">PremiumSIM LTE</a>
+<ul>
+<li>Nur noch &#252;ber Ostern</li>
+<li>4 GB f&#252;r 12,99&#8364; monatlich k&#252;ndbar</li>
+<li>Telefonica-Netz</li>
+</ul>
+</li>
+<li><a href="http://de.jimdo.com/bitsundso">Jimdo</a>
+<ul>
+<li>Made in Germany</li>
+<li>Website, Blog, Shop</li>
+<li>20% Rabatt mit Code BITSUNDSO auf Jimdo Pro und Jimdo Business</li>
+</ul>
+</li>
+</ul>
+]]>			</content>
+			<pupDate>31/03/2018</pupDate>
+		</item>
+		<item>
+			<title>Bits und so #568 (Sieger-Sieger, Huhn-Abendessen!)</title>
+			<guid isPermaLink="true">http://www.bitsundso.de/podpress_trac/feed/751/0/bits-2018-03-26.mp3</guid>
+			<enclosure length="1024" type="audio/mpeg" url="http://www.bitsundso.de/podpress_trac/feed/751/0/bits-2018-03-26.mp3"/>
+			<description>
+<![CDATA[Delete Facebook / Bunq / Uber Crash / HSTS Supercookie / Philips Pastamaker / Switch: Kirby / Textor #038; OpenTerm / Oak Meditation / Happybrush / Diconium / Jimdo]]>			</description>
+			<content>
+<![CDATA[
+<h3 id="news">News</h3>
+<ul>
+<li>Facebook verschenkt versehentlich Userprofile</li>
+<li><a href="https://www.facebook.com/zuck/posts/10104712037900071">Zuckerberg sagt Dinge dazu</a></li>
+<li>EU-Justizkommissarin Jourova: <a href="https://twitter.com/berlindirekt/status/977969884939341825">&#175;\_(&#12484;)_/&#175;</a></li>
+<li><a href="https://www.youtube.com/watch?v=WyGq6cjcc3Q">Alex Jones</a></li>
+<li><a href="https://www.youtube.com/user/LastWeekTonight">John Oliver: Last Week Tonight</a></li>
+<li><a href="https://twitter.com/dylanmckaynz/status/976368845635035138">Facebook speichert Anruf- und SMS-Metadaten</a></li>
+<li><a href="https://newsroom.fb.com/news/2018/03/fact-check-your-call-and-sms-history/">Facebook PR sagt Dinge dazu</a></li>
+<li><a href="http://bunq.com/en">Bunq</a> Bank</li>
+<li><a href="https://webkit.org/blog/8146/protecting-against-hsts-abuse/">HSTS Supercookie</a></li>
+</ul>
+<h3 id="picks">Picks</h3>
+<ul>
+<li>timo: <a href="https://www.amazon.de/Philips-HR2355-12-Automatisches-champagnerfarben/dp/B0168EJJGM/ref=as_li_ss_tl?ie=UTF8&amp;qid=1522091807&amp;sr=8-6&amp;keywords=philips+pastamaker&amp;linkCode=ll1&amp;tag=bitundso03-21&amp;linkId=2d663c1ff883e3d33b9d31f797e1b78d">Philips Pastamaker</a></li>
+<li>alex: <a href="https://www.amazon.de/Kirby-Star-Allies-Nintendo-Switch/dp/B072KKCWVG/ref=as_li_ss_tl?s=videogames&amp;ie=UTF8&amp;qid=1522091837&amp;sr=1-1&amp;keywords=switch+kirby&amp;linkCode=ll1&amp;tag=bitundso03-21&amp;linkId=b1a1e055b14bd071f6821633861f335c">Switch: Kirby Allies</a></li>
+<li>leo: <a href="https://itunes.apple.com/us/developer/silver-fox/id389234210?mt=8&amp;at=10ltcD">Textor &amp; OpenTerm</a> (<a href="https://www.youtube.com/watch?v=8cdr5k-91fQ">und der Salami-Slicer</a>)</li>
+<li>basti: <a href="https://itunes.apple.com/us/app/oak-meditation-breathing/id1210209691?mt=8&amp;at=10ltcD">Meditations-App Oak</a></li>
+</ul>
+<h3 id="pre-postshow">Pre-/Postshow</h3>
+<ul>
+<li>Diese Woche eine knappe Stunde Bonus-Content mit <a href="http://bitsundso.plus">Bits und so Plus</a></li>
+<li><a href="https://www.amazon.de/Star-Wars-letzten-Jedi-Blu-ray/dp/B0788BV2L1/ref=as_li_ss_tl?ie=UTF8&amp;qid=1522092034&amp;sr=8-1&amp;keywords=the+last+jedi&amp;linkCode=ll1&amp;tag=bitundso03-21&amp;linkId=8693b4c1e4e4313de6db3f92558ed170">Star Wars TLJ</a></li>
+<li>Wendy: Pferde sind wie M&#228;nner</li>
+<li>PUBG: <a href="https://twitter.com/timohetzel/status/978355682083835904">Sieger Sieger Huhn-Abendessen</a></li>
+</ul>
+<h3 id="sponsoren">Sponsoren</h3>
+<ul>
+<li><a href="https://happybrush.de">Happybrush</a>
+<ul>
+<li>Elektrische Zahnb&#252;rste. Rotierendes Sondermodell mit Viva con Agua-Spende</li>
+<li>Faire Preise f&#252;r Verbrauchsmaterial</li>
+<li>10&#8364; Rabatt auf Starterkit mit Code &#8220;happybits&#8221;</li>
+</ul>
+</li>
+<li><a href="https://diconium.com/jobderwoche">Diconium Digital Solutions</a>
+<ul>
+<li>Frontend-Developer (w/m) gesucht</li>
+<li>Min. 4 Jahre Berufserfahrung</li>
+<li>In Stuttgart, Hamburg, Berlin oder Karlsruhe</li>
+</ul>
+</li>
+<li><a href="https://de.jimdo.com/bitsundso">Jimdo</a>
+<ul>
+<li>Made in Germany</li>
+<li>Website, Blog, Shop</li>
+<li>20% Rabatt mit Code BITSUNDSO auf Jimdo Pro und Jimdo Business</li>
+</ul>
+</li>
+</ul>
+]]>			</content>
+			<pupDate>26/03/2018</pupDate>
+		</item>
+		<item>
+			<title>Bits und so #567 (Unsere Besten. Aus Bayern.)</title>
+			<guid isPermaLink="true">http://www.bitsundso.de/podpress_trac/feed/750/0/bits-2018-03-19.mp3</guid>
+			<enclosure length="1024" type="audio/mpeg" url="http://www.bitsundso.de/podpress_trac/feed/750/0/bits-2018-03-19.mp3"/>
+			<description>
+<![CDATA[Laptoppatente / Edu-M&#228;rz-Event / Siri-Gr&#252;nder ungl&#252;cklich / Mac App Store Miner / Frankreich: App Store / Texture / IntoLive Pro / Karten als Hintergrundbild / Memrise Sprach-Training / Jamf Now / Jimdo]]>			</description>
+			<content>
+<![CDATA[
+<h3 id="news">News</h3>
+<ul>
+<li>Keyboard-Patente: <a href="https://www.theverge.com/2018/3/9/17100594/apple-patent-dirt-debris-liquid-snacks">Br&#246;selsichere Tasten</a>, <a href="https://9to5mac.com/2018/03/16/apple-dynamic-keyboard-patent/">Touchscreen</a></li>
+<li>Education Event Ende M&#228;rz: iPad &amp; MacBook?</li>
+<li><a href="https://www.heise.de/mac-and-i/meldung/Bericht-Apple-verspielte-Siris-Vorsprung-durch-interne-Querelen-3995311.html">Siri-Gr&#252;nder ungl&#252;cklich</a></li>
+<li><a href="https://www.heise.de/mac-and-i/meldung/Mac-App-mit-Kryptominer-verdiente-2000-US-Dollar-in-drei-Tagen-3994136.html">Cryptominer im Mac App Store</a></li>
+<li><a href="https://www.heise.de/developer/meldung/Frankreich-will-Google-und-Apple-verklagen-3994455.html">Frankreich klagt gegen App Stores</a></li>
+<li>Apple kauft Magazin-Abodienst <a href="https://www.texture.com">Texture</a></li>
+</ul>
+<h3 id="picks">Picks</h3>
+<ul>
+<li>alex: <a href="https://itunes.apple.com/us/app/intolive-pro-press-and-hold/id1083468087?mt=8&amp;at=10ltcD">intoLive Pro</a> f&#252;r Live Fotos</li>
+<li>leo: <a href="https://alvarcarto.com/phone-background/">Karten als Hintergrundbild</a></li>
+<li>timo: Sprachen lernen: <a href="https://itunes.apple.com/us/app/memrise-language-learning/id635966718?mt=8&amp;at=10ltcD">Memrise</a>, <a href="http://www.michelthomas.com">Michel Tomas</a></li>
+</ul>
+<h3 id="sponsoren">Sponsoren</h3>
+<ul>
+<li><a href="http://jamf.com/bits">Jamf Now</a>
+<ul>
+<li>MDM f&#252;r iPhone, iPad, Mac</li>
+<li>Verwalten, Managen, Absichern</li>
+<li>3 Ger&#228;te dauerhaft gratis, jedes weitere 2$/Monat</li>
+</ul>
+</li>
+<li><a href="https://de.jimdo.com/bitsundso">Jimdo</a>
+<ul>
+<li>Made in Germany</li>
+<li>Website, Blog, Shop</li>
+<li>20% Rabatt mit Code BITSUNDSO auf Jimdo Pro und Jimdo Business</li>
+</ul>
+</li>
+</ul>
+]]>			</content>
+			<pupDate>19/03/2018</pupDate>
+		</item>
+		<item>
+			<title>Bits und so #566 (Unforeseen Malicious Privacy)</title>
+			<guid isPermaLink="true">http://www.bitsundso.de/podpress_trac/feed/749/0/bits-2018-03-12.mp3</guid>
+			<enclosure length="1024" type="audio/mpeg" url="http://www.bitsundso.de/podpress_trac/feed/749/0/bits-2018-03-12.mp3"/>
+			<description>
+<![CDATA[10 Jahre iPhone-SDK / Facebook: Onavo VPN / Telekom Breitbandabbau / T-Hybrid / Magenta XL / Klage gegen StreamOn-Regulierung / Flugtaxis / Audi-Feedback / Bixby + Google Assistant / EV-Simulator / Airdrop-Alternativen / WorkOutdoors / Jimdo]]>			</description>
+			<content>
+<![CDATA[
+<h3 id="news">News</h3>
+<ul>
+<li>10 Jahre iPhone-SDK</li>
+<li><a href="https://hetzel.net/2017-01-08/steve-jobs-confirmed-the-app-store-before-the-iphone-launched/">War schon 2007 angek&#252;ndigt</a></li>
+<li><a href="https://www.youtube.com/watch?v=2dODtKBl8L4">Townhall Video</a></li>
+<li>Chockenberry: <a href="https://blog.iconfactory.com/2018/03/a-lot-can-happen-in-a-decade/">A Lot Can Happen in a Decade</a></li>
+<li><a href="https://www.youtube.com/watch?v=MfbSkpBzBRc">iPhone Bob</a></li>
+<li><a href="https://youtu.be/v9dpTaZsIRw">Push Notifications mit iPhone OS 3</a></li>
+<li>Facebook: <a href="https://www.heise.de/mac-and-i/meldung/Facebooks-Onavo-VPN-App-ueberwacht-Display-Aktivitaet-und-Datenverbrauch-3989350.html">Onavo VPN</a></li>
+<li><a href="https://www.wsj.com/video/series/joanna-stern-personal-technology/why-it-feels-like-facebook-is-listening-through-your-mic/AAB3CF21-F765-4C6A-920A-FB2DA950288E">WSJ erkl&#228;rt gef&#252;hlten Facebook-Lauschangriff</a></li>
+<li><a href="https://hetzel.net/2018-03-12/breitbandabbau/">Breitbandabbau</a></li>
+<li>Hybrid-Speedport stinkt</li>
+<li>Magenta XL Flatrate f&#252;r 80 Euro</li>
+<li><a href="https://www.youtube.com/watch?v=kggEDwZelvc">Event mit Hoff</a></li>
+<li>Klage gegen StreamOn-Regulierung</li>
+<li>Breitbandausbau: Vectoring-F&#246;rderung wird eingestellt</li>
+<li>Doro B&#228;r f&#252;r Digitales</li>
+<li>Bixby, Google Assistant, Siri</li>
+<li>Alexa lacht</li>
+</ul>
+<h3 id="picks">Picks</h3>
+<ul>
+<li>timo: EV-Simulator <a href="https://itunes.apple.com/de/app/enbw-mobility/id1232210521?l=en&amp;mt=8&amp;at=10ltcD">EnBW Mobility+</a></li>
+<li>alex: <a href="http://www.filedropme.com/">Filedrop</a> (mit der Bitte um Vorschl&#228;ge f&#252;r Alternativen)</li>
+<li>leo: OSM auf Watch: <a href="https://itunes.apple.com/de/app/workoutdoors/id1241909999?at=10ltcD">WorkOutdoors</a>, <a href="https://www.iphoneblog.de/2018/03/09/workoutdoors-openstreetmap-karten-am-handgelenk/">iPhoneBlog dazu</a></li>
+<li>basti: <a href="http://www.quedo.net/">Quedo</a> Todos gamifiziert</li>
+</ul>
+<h3 id="pre-postshow">Pre-/Postshow</h3>
+<ul>
+<li><a href="https://twitter.com/timohetzel/status/971786592389095426">Metro Tigerhasen</a></li>
+<li>Alex: B&#252;rorundgang (Startup-Sauna)</li>
+<li><a href="http://de.friendsfactory.de">B&#252;ro mit Bierflatrate</a></li>
+<li>D&#252;nne OSM-App-Versorgung</li>
+<li>Finlandia-Vodka, Metro-Mitarbeiter</li>
+<li>Nachtshopping</li>
+<li>Aldi-Lades&#228;ule hat geschlossen</li>
+</ul>
+<h3 id="sponsor">Sponsor</h3>
+<ul>
+<li><a href="https://de.jimdo.com/bitsundso">Jimdo</a>
+<ul>
+<li>Made in Germany</li>
+<li>Website, Blog, Shop</li>
+<li>20% Rabatt mit Code BITSUNDSO auf Jimdo Pro und Jimdo Business</li>
+</ul>
+</li>
+</ul>
+]]>			</content>
+			<pupDate>12/03/2018</pupDate>
+		</item>
+	</channel>
+</rss>
