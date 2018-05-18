@@ -16,7 +16,7 @@
 			<enclosure length="1024" type="audio/mpeg" url="http://www.bitsundso.de/podpress_trac/feed/760/0/bits-2018-05-12.mp3"/>
 			<description>
 <![CDATA[Die Wolke / Compute / Regionen / Storage / Datenbanken / Serverless / Lift-and-shift / Video-Encoding / Mischbetrieb / Lock-In / Einstieg / Jimdo / Miradore]]>			</description>
-			<content:encoded>
+			<ns0:encoded xmlns:ns0="http://purl.org/rss/1.0/modules/content:encoded/">
 <![CDATA[
 <h3 id="diewolke">Die Wolke</h3>
 <ul>
@@ -76,7 +76,7 @@
 </ul>
 </li>
 </ul>
-]]>			</content:encoded>
+]]>			</ns0:encoded>
 			<pupDate>12/05/2018</pupDate>
 		</item>
 		<item>
@@ -85,7 +85,7 @@
 			<enclosure length="1024" type="audio/mpeg" url="http://www.bitsundso.de/podpress_trac/feed/759/1/bits-2018-05-06-ch2PGQGS.m4a"/>
 			<description>
 <![CDATA[Marzipan / HomePod Mesh / IT-Konferenz / AppleSupport / Pocketcasts / 500600 / Quartalszahlen / Declutter / Pretix Ticket-Shopsystem / FocusGTD / Oral-B Genius / Miradore MDM / Udemy / Jimdo]]>			</description>
-			<content:encoded>
+			<ns1:encoded xmlns:ns1="http://purl.org/rss/1.0/modules/content:encoded/">
 <![CDATA[
 <h3 id="news">News</h3>
 <ul>
@@ -136,7 +136,7 @@
 </ul>
 </li>
 </ul>
-]]>			</content:encoded>
+]]>			</ns1:encoded>
 			<pupDate>07/05/2018</pupDate>
 		</item>
 		<item>
@@ -145,7 +145,7 @@
 			<enclosure length="1024" type="audio/mpeg" url="http://www.bitsundso.de/podpress_trac/feed/758/0/bits-2018-04-30.mp3"/>
 			<description>
 <![CDATA[Navigations-Apps / Rich Communication Suite / iPhone X-Halbzeit / bus500600 Ticket-Vorverkauf / AirPlay 2 / Tim Cook macOS / SimsMe / Magenta 2x-Volumen / Automute / Anker Soundcore Nano / Duschlautsprecher / 1Blocker X  / Jamf / Jimdo]]>			</description>
-			<content:encoded>
+			<ns2:encoded xmlns:ns2="http://purl.org/rss/1.0/modules/content:encoded/">
 <![CDATA[
 <h3 id="news">News</h3>
 <ul>
@@ -180,7 +180,7 @@
 <li><a href="https://www.mennekes.de/produkt-details/wandsteckdose-7002a/#wandsteckdose7002a0.7067068491596729">Mennekes 7002A</a></li>
 <li>Salsiccia in der Hosentasche</li>
 </ul>
-]]>			</content:encoded>
+]]>			</ns2:encoded>
 			<pupDate>30/04/2018</pupDate>
 		</item>
 		<item>
@@ -189,7 +189,7 @@
 			<enclosure length="1024" type="audio/mpeg" url="http://www.bitsundso.de/podpress_trac/feed/755/0/bits-2018-04-24.mp3"/>
 			<description>
 <![CDATA[Right to Repair / App Store Sparabo / Flickr / Bus 500600 / GreyKey / Congstar 10GB / Magic Utilities / Maps 3D Pro / DJI Mavic Air / Jamf / Udemy / Jimdo]]>			</description>
-			<content:encoded>
+			<ns3:encoded xmlns:ns3="http://purl.org/rss/1.0/modules/content:encoded/">
 <![CDATA[
 <h3 id="news">News</h3>
 <ul>
@@ -230,7 +230,7 @@
 </ul>
 </li>
 </ul>
-]]>			</content:encoded>
+]]>			</ns3:encoded>
 			<pupDate>24/04/2018</pupDate>
 		</item>
 		<item>
@@ -239,7 +239,7 @@
 			<enclosure length="1024" type="audio/mpeg" url="http://www.bitsundso.de/podpress_trac/feed/754/0/bits-2018-04-15.mp3"/>
 			<description>
 <![CDATA[Zu Gast: Mathias Dalheimer / Stromnetz / AC-Ladung / Abrechnung / Ladeger&#228;t / DC-Ladung / Wallboxen / Fi-Schutzschalter / Reichweitenpraxis / Ladepraxis / Rettungskarte / Wallbox-Optionen / Fahrassistenz / Stecker und Dosen / Verbrauch und Kosten / Jimd]]>			</description>
-			<content:encoded>
+			<ns4:encoded xmlns:ns4="http://purl.org/rss/1.0/modules/content:encoded/">
 <![CDATA[
 <h3 id="autostrom">Autostrom</h3>
 <ul>
@@ -297,7 +297,7 @@
 </ul>
 </li>
 </ul>
-]]>			</content:encoded>
+]]>			</ns4:encoded>
 			<pupDate>15/04/2018</pupDate>
 		</item>
 		<item>
@@ -306,7 +306,7 @@
 			<enclosure length="1024" type="audio/mpeg" url="http://www.bitsundso.de/podpress_trac/feed/753/0/bits-2018-04-07.mp3"/>
 			<description>
 <![CDATA[ARM-Macs / Google AI-Manager / Bayern-WLAN / SLAM-Lades&#228;ulen / Facebook / Radio Silence / Tesla-Probefahrt / Teufel 360 Radio / Wo streamt was? / Jimdo Dolphin]]>			</description>
-			<content:encoded>
+			<ns5:encoded xmlns:ns5="http://purl.org/rss/1.0/modules/content:encoded/">
 <![CDATA[
 <h3 id="news">News</h3>
 <ul>
@@ -361,7 +361,7 @@
 </ul>
 </li>
 </ul>
-]]>			</content:encoded>
+]]>			</ns5:encoded>
 			<pupDate>08/04/2018</pupDate>
 		</item>
 		<item>
@@ -370,7 +370,7 @@
 			<enclosure length="1024" type="audio/mpeg" url="http://www.bitsundso.de/podpress_trac/feed/752/0/bits-2018-03-31.mp3"/>
 			<description>
 <![CDATA[#500600 / Neues iPad / Edu-Event / Facebook / EU-Roaming / Foxconn shoppt Belkin / iOS 11.3 / Windy / MapOut / Sphero Toys / Zei Trackingw&#252;rfel / Jamf Now / Casper / PremiumSIM LTE / Jimdo]]>			</description>
-			<content:encoded>
+			<ns6:encoded xmlns:ns6="http://purl.org/rss/1.0/modules/content:encoded/">
 <![CDATA[
 <h3 id="500600">#500600</h3>
 <ul>
@@ -442,7 +442,7 @@
 </ul>
 </li>
 </ul>
-]]>			</content:encoded>
+]]>			</ns6:encoded>
 			<pupDate>31/03/2018</pupDate>
 		</item>
 		<item>
@@ -451,7 +451,7 @@
 			<enclosure length="1024" type="audio/mpeg" url="http://www.bitsundso.de/podpress_trac/feed/751/0/bits-2018-03-26.mp3"/>
 			<description>
 <![CDATA[Delete Facebook / Bunq / Uber Crash / HSTS Supercookie / Philips Pastamaker / Switch: Kirby / Textor #038; OpenTerm / Oak Meditation / Happybrush / Diconium / Jimdo]]>			</description>
-			<content:encoded>
+			<ns7:encoded xmlns:ns7="http://purl.org/rss/1.0/modules/content:encoded/">
 <![CDATA[
 <h3 id="news">News</h3>
 <ul>
@@ -503,7 +503,7 @@
 </ul>
 </li>
 </ul>
-]]>			</content:encoded>
+]]>			</ns7:encoded>
 			<pupDate>26/03/2018</pupDate>
 		</item>
 		<item>
@@ -512,7 +512,7 @@
 			<enclosure length="1024" type="audio/mpeg" url="http://www.bitsundso.de/podpress_trac/feed/750/0/bits-2018-03-19.mp3"/>
 			<description>
 <![CDATA[Laptoppatente / Edu-M&#228;rz-Event / Siri-Gr&#252;nder ungl&#252;cklich / Mac App Store Miner / Frankreich: App Store / Texture / IntoLive Pro / Karten als Hintergrundbild / Memrise Sprach-Training / Jamf Now / Jimdo]]>			</description>
-			<content:encoded>
+			<ns8:encoded xmlns:ns8="http://purl.org/rss/1.0/modules/content:encoded/">
 <![CDATA[
 <h3 id="news">News</h3>
 <ul>
@@ -546,7 +546,7 @@
 </ul>
 </li>
 </ul>
-]]>			</content:encoded>
+]]>			</ns8:encoded>
 			<pupDate>19/03/2018</pupDate>
 		</item>
 		<item>
@@ -555,7 +555,7 @@
 			<enclosure length="1024" type="audio/mpeg" url="http://www.bitsundso.de/podpress_trac/feed/749/0/bits-2018-03-12.mp3"/>
 			<description>
 <![CDATA[10 Jahre iPhone-SDK / Facebook: Onavo VPN / Telekom Breitbandabbau / T-Hybrid / Magenta XL / Klage gegen StreamOn-Regulierung / Flugtaxis / Audi-Feedback / Bixby + Google Assistant / EV-Simulator / Airdrop-Alternativen / WorkOutdoors / Jimdo]]>			</description>
-			<content:encoded>
+			<ns9:encoded xmlns:ns9="http://purl.org/rss/1.0/modules/content:encoded/">
 <![CDATA[
 <h3 id="news">News</h3>
 <ul>
@@ -604,7 +604,7 @@
 </ul>
 </li>
 </ul>
-]]>			</content:encoded>
+]]>			</ns9:encoded>
 			<pupDate>12/03/2018</pupDate>
 		</item>
 	</channel>
